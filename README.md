@@ -1,0 +1,1 @@
+This is a machine learning library developed by Dennis Kuduzovic for CS5350/6350 in University of Utah
